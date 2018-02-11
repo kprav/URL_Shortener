@@ -34,7 +34,7 @@ Below is the specification for the two endpoints:
 
 Here's a walkthrough of the implementation:
 
-![demo](VideoWalkthrough/walkthrough.gif)
+![demo](walkthrough.gif)
 
 ## License
 
